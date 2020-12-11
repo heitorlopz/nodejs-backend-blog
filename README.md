@@ -1,4 +1,4 @@
-# nodejs-backend-blog
+# Backend - ReadME
 
 Para executar o projeto: rodar "yarn", em seguida "yarn start". Para modificar a porta, modificar o arquivo ".env".
 
